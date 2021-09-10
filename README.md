@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @angelchoque
 - 👀 I’m interested in Web debelopment
 - 🌱 I’m currently learning Frontend Development
-- 📫 How to reach me: ...
+- 📫 How to reach me: https://angelchoque.github.io/
+- Contact me: miguelangelchoquedev@gmail.com
 
 <!---
 angelchoque/angelchoque is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
