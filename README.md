@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @angelchoque
-- 👀 I’m interested in Web debelopment
+- 👀 I’m interested in Web development
 - 🌱 I’m currently learning Frontend Development
 - 📫 How to reach me: https://angelchoque.github.io/
 - Contact me: miguelangelchoquedev@gmail.com
