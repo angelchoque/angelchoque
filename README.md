@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @angelchoque
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning Frontend Development
-- 📫 How to reach me: https://angeldecode.com
-- Contact me: miguelangelchoquedev@gmail.com
-
-<!---
-angelchoque/angelchoque is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h3 align="center">Hi!, I'm Angel</a> <img src="https://emojis.slackmojis.com/emojis/images/1643514675/6754/anime.gif?1643514675" width="28" /> </h3>
+Hello, My name is Angel
+I love Programing, I am interested Software Development, I'm a full stack web developer.
