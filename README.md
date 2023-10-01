@@ -3,5 +3,6 @@
   <img src="https://cdn.discordapp.com/attachments/861704762935738369/984600062317432842/IMG_7762.gif" width="100" />
 </div>
 <div align="center">
-   I love Programing, I am interested Software Development
+   I love Programing, I am interested Software Development<br>
+  I use Arch btw
 </div>
