@@ -6,3 +6,6 @@
    I love Programing, I am interested Software Development<br>
   I use Arch btw
 </div>
+<div align="center">
+ <img src="https://static-00.iconduck.com/assets.00/archlinux-icon-2048x2048-q7549ths.png" alt="arch linux logo" width="24" />
+</div>
